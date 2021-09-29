@@ -1,2 +1,2 @@
-# Landing-Page-Inmovest
-This is the repository in which the landing page source code will be commited.
+# Landing-Page-Fortlom
+A landing page for the Inmovest project. Made with basic HTML5, CSS3 and Javscript.
